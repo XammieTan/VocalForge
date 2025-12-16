@@ -1,0 +1,7 @@
+{
+  "name": "아둘주 VocalForge & Live.",
+  "description": "Real-time speech-to-speech interaction using Gemini Live API. Speak naturally to refine ideas with instant vocal feedback and transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
